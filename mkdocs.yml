@@ -1,0 +1,12 @@
+site_name: Eso Peso NAPOKE
+
+nav:
+  - Úvod: 'index.md'
+  - Maturita RJ: 'maturita.md'
+  - WA 10.11.: 'wa-10.11.md'
+
+theme:
+  name: terminal
+
+extra_css:
+  - style.css
